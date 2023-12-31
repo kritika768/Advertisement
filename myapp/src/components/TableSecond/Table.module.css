@@ -1,0 +1,22 @@
+.donut {
+  margin: 11%;
+}
+
+.cont {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 30%;
+  margin-right: 10px;
+}
+
+.tbtn {
+  border: 1px solid #d3d3d3;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.dbtn {
+  border: 1px solid #d3d3d3;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
